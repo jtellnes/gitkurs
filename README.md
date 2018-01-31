@@ -1,1 +1,1 @@
-Git-kurs på HSN i bø, våren 2018, 31.01.2018
+Git-kurs på Høgskolen i Sørøst-Norge, våren 2018
